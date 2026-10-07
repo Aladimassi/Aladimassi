@@ -107,8 +107,6 @@ My portfolio, styled as a Windows XP desktop · <a href="https://windosws-xp-por
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aladimassi&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aladimassi&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
 
 <img src="https://streak-stats.demolab.com?user=Aladimassi&theme=radical&hide_border=true"/>
 
